@@ -72,7 +72,7 @@ a {
   flex-wrap: wrap;
 }
 
-.main-img-text{
+.main-img-text {
   background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-main.png");
   font-size: 40px;
   padding-left: 20px;
@@ -86,12 +86,10 @@ a {
   height: 300px;
   justify-content: center;
   flex-direction: column;
-  
 }
 
 .lower-box .img-text {
   text-align: center;
-  
 }
 
 .lower-box {
@@ -212,4 +210,3 @@ footer {
   align-items: center;
   padding-left: 20px;
 }
-
